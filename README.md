@@ -6,6 +6,8 @@ Open Source real-time strategy game made with Godot 4.
 
 ## Purposes of this project
 
+This repo is being used as a test repository for a build pipeline.
+
 This game is not going to be a very advanced RTS that would compete with other games of this genre. Instead, it will focus on simplicity and clean design so that it can:
  - showcase Godot 4 capabilities in terms of developing RTS games
  - provide an open-source project template for creating RTS games
