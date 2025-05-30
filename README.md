@@ -11,6 +11,8 @@ This game is not going to be a very advanced RTS that would compete with other g
  - provide an open-source project template for creating RTS games
  - educate game creators on creating RTS game mechanics
 
+More changes for the sake of commits.
+
 ## Features
 
  - [x] 1 species
