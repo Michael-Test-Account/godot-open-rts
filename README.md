@@ -10,6 +10,7 @@ This game is not going to be a very advanced RTS that would compete with other g
  - showcase Godot 4 capabilities in terms of developing RTS games
  - provide an open-source project template for creating RTS games
  - educate game creators on creating RTS game mechanics
+ - Can you believe, to trigger another build?
 
 ## Features
 
